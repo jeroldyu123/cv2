@@ -1,0 +1,129 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+h1{
+  color:#66BFBF;
+ margin-top:0;
+ font-family:'Sacramento',serif;
+ font-size: 5.625rem;
+ margin: 50px auto 0 auto;
+ line-height: 2;
+}
+
+h2{
+    color:#66BFBF;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+}
+
+hr{
+  margin:7% auto 5% auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width:3%;
+  border-color: gray;
+}
+
+.theTopContainer{
+  position:relative;
+  padding-top: 100px;
+  background-color:#E4F9F5;
+  margin-bottom:50px;
+}
+
+
+
+.Jerold-picture{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.topCloud{
+  position:absolute;
+  right: 300px;
+  top:50px;
+}
+.bottomCloud{
+  position: absolute;
+  left:300px;
+  bottom:300px
+}
+
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.coding-image{
+  width:25%;
+  border-radius:50%;
+  float:left;
+  margin-right:30px;
+}
+.chess-image{
+  width:25%;
+  border-radius:50%;
+  float:right;
+  margin-left:30px;
+}
+
+.bottom{
+  margin: 3% auto 3% auto;
+}
+
+.bottom-container{
+  margin-top: 5%;
+  padding: 3%;
+  background-color: #66BFBF;
+
+}
+
+.btn{
+  height: 40px;
+  width: 170px;
+  background: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 20px;
+  color: white;
+  border:none;
+  border-radius: 10px;
+}
+
+.footer-link{
+  margin-top: 20px;
+  margin-left: 10px
+}
+
+a{
+  text-decoration: none;
+  margin-right: 20px;
+    font-family: 'Montserrat',sans-serif;
+color: #11999E;
+
+}
+
+a:hover{
+  color:white;
+}
+
+.surname{
+  color: white;
+  font-size: 10px;
+  margin-top: 30px;
+}
